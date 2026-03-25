@@ -32,14 +32,13 @@
 
 These are the tools and technologies I’ve worked with:
 
-**Web Development**: HTML, CSS, Tailwind CSS
-**Data & Analytics**: Power BI, MS Excel, SQL (Learning)
-**Tools & Platforms**: GitHub, VS Code, Proteus
-**Design & Creativity**: Figma, Canva, Clipchamp
+* **Web Development**: HTML, CSS, Tailwind CSS
+* **Data & Analytics**: Power BI, MS Excel, SQL (Learning)
+* **Tools & Platforms**: GitHub, VS Code, Proteus
+* **Design & Creativity**: Figma, Canva, Clipchamp
 
 ---
 
-## 🚀 Featured Projects
 ## 🚀 Featured Projects
 
 ### 📊 Data Analytics & Dashboards
@@ -136,42 +135,20 @@ These are the tools and technologies I’ve worked with:
 
 ---
 
-## 🏆 Hackathons
-### 🚀 Ujjain Mahakumbh Hackathon (MPSeDC)
-
-* 👥 Team: *The ParkTechies*
-* 👑 Role: **Group Leader**
-* 💡 Built **DevoteeEase (ParkMela)** – Smart Mobility Solution
-* 🏁 Ranked **Top 22 out of 1700+ teams**
-* 🏫 Grand Finale at **IISER Bhopal**
-* ⭐ Recognized as a **“visionary” solution by jury**
-
----
-
-### 👨‍💻 Hacksagon 2025 (IIITM Gwalior, IEEE)
-
-* 👥 Team: *Quantum Leap*
-* 🏁 Finalist among **600+ teams**
-* 💡 Built **StockSense** – Smart Inventory & Billing System
-* 🎨 Contributed to **UI design, presentation & final pitch**
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-agrawal09&theme=tokyo-night" />
-</p>
----
 
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/medhavi-agrawal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/m.agrawal09"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=instagram"></a>
-  <a href="mailto:magrawal09.contact@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/medhavi-agrawal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/m.agrawal09">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:magrawal09.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
-
 ---
 
 <p align="center">⭐ "Turning data into insights and ideas into impact. :)"</p>

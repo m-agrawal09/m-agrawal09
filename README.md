@@ -1,10 +1,10 @@
 <!-- Animated Intro -->
 
-<h1 align="center">Hi 👋, I'm Medhavi</h1>
-<h3 align="center">🚀 Developer | 📊 Aspiring Data Analyst | 💡 Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Medhavi Agrawal</h1>
+<h3 align="center">📊 Aspiring Data Analyst | 👩‍💻 B.Tech ETE @ MITS Gwalior | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Dashboard+Builder;Hackathon+Finalist;IoT+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Dashboard+Builder&center=true&width=500&height=45">
 </p>
 
 ---
@@ -24,48 +24,122 @@
 * 🌐 Web Development (HTML, CSS, Tailwind)
 * 🧠 SQL (Learning)
 * 🤖 IoT Systems (Arduino Projects)
-* 🎤 Public Speaking & Presentations
-* 🌏 Languages: English, Hindi, Telugu
+* 🌏 Languages: English, Hindi, Telugu, Bhojpuri
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
-</p>
+These are the tools and technologies I’ve worked with:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva"/>
-</p>
+**Web Development**: HTML, CSS, Tailwind CSS
+**Data & Analytics**: Power BI, MS Excel, SQL (Learning)
+**Tools & Platforms**: GitHub, VS Code, Proteus
+**Design & Creativity**: Figma, Canva, Clipchamp
 
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🌍 Smart Tourism Dashboard
+### 📊 Data Analytics & Dashboards
 
-📊 Data-driven dashboard for **travel safety & environmental insights**
+#### 🚗 Automotive Sales Performance Dashboard
+
+🏆 Built during a live dashboard competition
+
+* Designed KPI-driven dashboard to analyze car sales trends
+* Identified top-performing models & revenue patterns
 
 ---
 
+#### 🚦 Road Accident Trend Analysis
+
+* Analyzed accident severity & yearly trends across regions
+* Visualized geographic hotspots and risk patterns
 
 ---
 
-### 🤖 Voice Controlled Robot
+#### 🏏 IPL Player Auction Analytics Dashboard
 
-🔊 Bluetooth + Speech Recognition based IoT system
+* Built a live-style dashboard to evaluate player performance
+* Simulated data-driven player selection insights
+
+---
+
+#### 🗳️ Andhra Pradesh Election Report
+
+* Analyzed constituency-level voting patterns
+* Visualized regional political trends using dashboards
+
+---
+
+#### 🛒 Amazon Sales & Profit Dashboard
+
+* Analyzed revenue, profit & order trends over time
+* Identified top-performing products and regions
+
+---
+
+### 🚀 Hackathon Projects
+
+#### 🚗 DevoteeEase (Ujjain Mahakumbh Hackathon)
+
+🏆 Top 22 out of 1700+ teams | 👑 Team Leader
+
+* Smart mobility platform connecting visitors with locals for parking
+* Reduces congestion & waiting time during large events
+* Enables income opportunities for local communities
+
+---
+
+#### 📦 StockSense (Hacksagon 2025)
+
+🏁 Finalist among 600+ teams
+
+* Smart inventory & billing management system
+* Real-time stock tracking with intelligent restock alerts
+* Included trend detection & insights for better decision-making
+
+---
+
+### 🤖 IoT & Engineering Projects
+
+#### 💧 IoT-Based Water Quality Monitoring System
+
+* Arduino-based system to monitor pH, turbidity, TDS, temperature
+* Designed for real-time monitoring in rural areas
+
+---
+
+#### 🚧 Smart Toll Gate Automation System
+
+* Automated toll barrier using ultrasonic sensors
+* Demonstrated smart traffic control using Arduino
+
+---
+
+### 🌐 Development Projects
+
+#### 🎮 Tic-Tac-Toe Game
+
+* Browser-based interactive game
+* Implemented game logic & win-condition detection
+
+---
+
+#### 🔬 Reutilization of Fossil Fuels (Research Project)
+
+* Research on sustainable reuse of fossil fuel by-products
+* Presented at National Children’s Science Congress
+* Secured **State Rank 05**
 
 ---
 
 ## 🏆 Hackathons
 ### 🚀 Ujjain Mahakumbh Hackathon (MPSeDC)
 
-* 👥 Team: *The ParkTechies* (4 members)
+* 👥 Team: *The ParkTechies*
 * 👑 Role: **Group Leader**
 * 💡 Built **DevoteeEase (ParkMela)** – Smart Mobility Solution
 * 🏁 Ranked **Top 22 out of 1700+ teams**
@@ -83,40 +157,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-agrawal09&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-agrawal09&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-agrawal09&theme=tokyo-night" />
 </p>
-
----
-
-## 🧩 What Makes Me Different
-
-✨ Data + Development + Design combination
-✨ Strong **dashboard storytelling & visualization skills**
-✨ Experience in **real-world problem solving (hackathons)**
-✨ Leadership experience as a **team lead**
-✨ Confident in **presentations & communication**
-
 ---
 
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/medhavi-agrawal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/m.agrawal09"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=instagram"></a>
+  <a href="mailto:magrawal09.contact@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-<p align="center">⭐ "Turning data into insights and ideas into impact."</p>
+<p align="center">⭐ "Turning data into insights and ideas into impact. :)"</p>

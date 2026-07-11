@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-**Data Analytics:** Power BI, Excel, SQL
+**Data Analytics:** Power BI, Excel, SQL, Tableau, Python, Pandas
 
 **Web Development:** HTML, CSS, Tailwind CSS
 

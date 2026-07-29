@@ -14,10 +14,10 @@
 
 * 📊 Building data-driven dashboards using **Power BI, Excel, and SQL**
 * 🏆 Team Leader of **DevoteeEase** — Top 22 among **1700+ teams** at Ujjain Mahakumbh Hackathon
-* 🏁 Finalist at **Hacksagon 2025** with **StockSense**
-* 🏁 Finalist at **Hacksagon 2026** with **GoTrip**
+* 🚔 Built an AI-Driven Crime Analytics & Intelligence Platform for the **Karnataka State Police** at Datathon 2026 using Zoho Catalyst
+* 🏁 Finalist at **Hacksagon 2025** with **StockSense** & **Hacksagon 2026** with **GoTrip**
 * 🤖 Passionate about solving real-world problems through analytics and technology
-* 🌱 Currently strengthening my **SQL** and **Data Analytics** skills
+* 🌱 Currently strengthening my **Python** and **Data Analytics** skills
 
 ---
 
@@ -43,6 +43,7 @@
 
 ### 🚀 Hackathon Projects
 
+* AI-Driven Crime Analytics & Intelligence Platform (Karnataka State Police Datathon 2026)
 * DevoteeEase – Smart mobility solution for large-scale events
 * StockSense – Smart inventory & billing management system
 * GoTrip - D𝘢𝘵𝘢-𝘥𝘳𝘪𝘷𝘦𝘯 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 for 𝘴𝘮𝘢𝘳𝘵𝘦𝘳, 𝘴𝘢𝘧𝘦𝘳, 𝘢𝘯𝘥 𝘸𝘦𝘭𝘭-𝘤𝘰𝘰𝘳𝘥𝘪𝘯𝘢𝘵𝘦𝘥 𝘨𝘳𝘰𝘶𝘱 𝘵𝘳𝘢𝘷𝘦𝘭
